@@ -1,7 +1,7 @@
 <template>
   <div>
     <el-row>
-      <el-col :xs="24" :sm="24" :md="23" :lg="22" :xl="22" :offset="1">
+      <el-col :xs="24" :sm="24" :md="23" :lg="22" :xl="18" :offset="1">
         <el-table
           :data="
             tableData.filter(
